@@ -1,6 +1,5 @@
 # SOLTEC.<Module>
 
-![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
 **SOLTEC.<Module>** (**<Module Name Complete>**). El concepto hace referencia a un tipo de software que permite la
@@ -11,7 +10,11 @@ los procesos.
 
 # Instalación
 
+
+
 # Construyendo
+
+
 
 #### Con Visual Studio 2022
 
